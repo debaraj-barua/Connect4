@@ -6,7 +6,7 @@ set(CMAKE_BUILD_TYPE Debug)
 
 add_definitions(-std=c++11)
 
-set(EXECUTABLE_OUTPUT_PATH bin)
+set(EXECUTABLE_OUTPUT_PATH ../bin)
 
 include_directories (
     include

@@ -1,0 +1,8 @@
+48/50
+Debaraj Barua
+
+1) Implementation: Well done!
+40/40
+
+2) Evaluation: Your results are correct. It would have been nice, if you measures some data (e.g. time the agent takes to make a decision, evaluated boards).
+8/10
