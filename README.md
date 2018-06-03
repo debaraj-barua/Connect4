@@ -1,8 +1,8 @@
-<center>
 # Artificial Intelligence for Robotics – Lab
-## Prof. Dr. Erwin A. Prassler
-## Maximilian Schöbel
-</center>
+<p align = 'center'>
+    <b> Prof. Dr. Erwin A. Prassler </b><br>
+    <b> Maximilian Schöbel </b>
+</p>
 
 ### SUBMISSION RULES:
 
